@@ -3,6 +3,12 @@
 
 ### This is an Android math game to improve calculation abilities.
 
+#### Download here:
+![alt text](https://github.com/menaov/BubbleMath/blob/master/Screenshots/13.jpg "Download")
+
+#### Watch the demo here:
+![alt text](https://github.com/menaov/BubbleMath/blob/master/Screenshots/14.jpg "Download")
+
 #### Main Features:
 * Fragments.
 * Animations.

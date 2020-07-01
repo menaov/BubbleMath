@@ -12,7 +12,7 @@
 * Effects.
 * Material showcase view.
 
-##### Screenshots:
+#### Screenshots:
 ![alt text](https://github.com/menaov/BubbleMath/blob/master/Screenshots/1.jpg "BubbleMath")
 ![alt text](https://github.com/menaov/BubbleMath/blob/master/Screenshots/2.jpg "BubbleMath")
 ![alt text](https://github.com/menaov/BubbleMath/blob/master/Screenshots/3.jpg "BubbleMath")

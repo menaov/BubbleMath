@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gameb"
+    android:gravity="center">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialogTitle"
+        android:gravity="center_vertical|center"
+        android:padding="10dp"
+        android:text="@string/HowToPlayTxt"
+        android:textColor="@color/Black"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/ketchup_font"/>
+    <LinearLayout
+        android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="start"
+            android:textAlignment="gravity"
+            android:text="@string/HowToPlayInstructions"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/alef_regular"/>
+    </LinearLayout>
+</LinearLayout>

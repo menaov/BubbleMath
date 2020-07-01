@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">BubbleMath</string>
+    <string name="HomeTxt">Home</string>
+    <string name="HowToPlayTxt">HowToPlay</string>
+    <string name="SettingsTxt">Settings</string>
+    <string name="AboutTxt">About</string>
+    <string name="OkTxt">Ok</string>
+    <string name="HowToPlayInstructions">1. Select the game level.\n2. Click on start game.\n3. Math question will be shown on the top of the screen.\n4. Answers will be shown in bubbles at the center of the screen.\n5. Select an answer.\n6. Score will be updated depends on the correctness and tap speed.</string>
+    <string name="backgroundMusicTxt">"Background Music:     "</string>
+    <string name="soundEffectTxt">"Sound Effects:     "</string>
+    <string name="vibrationTxt">"Vibration:     "</string>
+    <string name="SaveTxt">Save</string>
+    <string name="AboutUs">The Mathematical Bubble Game was created with the aim of improving the\nplayer\'s computational and extraction capabilities with a view to better\ndealing with mathematical calculations at various levels.\nThe player will deal with different times and calculations depending on the\nlevel of the game he has chosen and will be able to improve his abilities\nand deal better with different calculations.\nHave you enjoyed? Rate us!</string>
+    <string name="startTxt">Start</string>
+    <string name="easyTxt">Easy</string>
+    <string name="ChooseLevelTxt">Select level to start the game:</string>
+    <string name="mediumTxt">Medium</string>
+    <string name="hardTxt">Hard</string>
+    <string name="timerModeTxt">TimerMode</string>
+    <string name="score_init">0 Pt</string>
+    <string name="questionTxt">question</string>
+    <string name="leader_boards_text">Leader Boards</string>
+    <string name="levelTxt">Level</string>
+    <string name="first" translatable="false">1</string>
+    <string name="nameTxt">Name</string>
+    <string name="scoreTxt">Score</string>
+    <string name="second" translatable="false">2</string>
+    <string name="third" translatable="false">3</string>
+    <string name="congratulationsTxt">Congratulations!</string>
+    <string name="broke_record_txt">You broke the record.</string>
+    <string name="name_hint_txt">Please enter your name</string>
+    <string name="submitTxt">Submit</string>
+    <string name="game_over_txt">Game Over</string>
+    <string name="play_again_txt">Do you want to play again?</string>
+    <string name="need_help_txt">Need Help?</string>
+    <string name="points_for_hint_txt">Are you sure you want to spend 50 points for a hint?</string>
+    <string name="name_empty_txt">Name can\'t be empty.</string>
+    <string name="record_not_saved_txt">Record not saved.</string>
+    <string name="not_enough_points">You don\'t have enough points</string>
+    <string name="one_hint_txt">Only one hint per question!</string>
+    <string name="yesTxt">Yes</string>
+    <string name="noTxt">No</string>
+    <string name="points">Pt</string>
+    <string name="gotit_txt">GOT IT</string>
+    <string name="this_is_score">This is your score</string>
+    <string name="this_is_question_txt">This is the question</string>
+    <string name="this_is_timer">This is the timer</string>
+    <string name="this_lives">Your lives.</string>
+    <string name="this_hint_txt">Hint button</string>
+    <string name="this_answers_txt">This is the answers</string>
+    <string name="two_players">1 vs 1</string>
+    <string name="get_ready_txt">Get Ready</string>
+    <string name="champion_hint">Who will be our champion?</string>
+    <string name="ready_for_math_hint">Ready for some math?</string>
+    <string name="ready_for_challenge_hint">Are you ready for a math challenge?</string>
+    <string name="here_it_comes_hint">Here it comes!</string>
+    <string name="player_2_name_hint">Player 2 name</string>
+    <string name="player_1_name_hint">Player 1 name</string>
+    <string name="player_details_txt">Player Details</string>
+    <string name="game_finished_txt">Game Finished!</string>
+    <string name="the_winner_is_txt">The Winner Is:</string>
+    <string name="rank_txt">Rank</string>
+    <string name="tied_txt">The game is tied!</string>
+    <string name="settings_saved_txt">Settings Saved.</string>
+</resources>
